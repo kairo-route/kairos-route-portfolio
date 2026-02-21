@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "description": "Kairos Route — Portfolio de proyectos de IA, ilustraciones digitales y contenido creativo. Explora mis colecciones de Kairos y GÜIJE.",
+    "keywords": "Kairos Route, portfolio, IA, inteligencia artificial, ilustraciones, productos digitales, Gumroad, Redbubble"
+  },
+  "hero": {
+    "title": "Kairos Route",
+    "subtitle": "Creando en el cruce de la IA, el arte y el contenido digital"
+  },
+  "nav": {
+    "home": "Inicio",
+    "portfolio": "Portfolio",
+    "shop": "Tienda",
+    "blog": "Blog",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "explore": "Explorar proyectos",
+    "shop": "Visitar tienda",
+    "read": "Leer más"
+  }
+}
