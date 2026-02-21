@@ -1,90 +1,20 @@
 {
   "meta": {
-    "description": "Kairos Route - Portfolio of AI projects, digital illustrations and creative content. Explore the Kairos and GÜIJE collections.",
-    "keywords": "Kairos Route, portfolio, AI, artificial intelligence, illustrations, digital products, Gumroad, Redbubble"
+    "description": "Kairos Route — Premium AI tools, digital automation apps and elite digital products for professionals.",
+    "keywords": "Kairos Route, AI tools, automation, digital products, n8n, Gumroad, tech marketplace"
   },
-  "hero": {
-    "badge": "AI & Digital Content Creator",
-    "title": "Kairos Route",
-    "subtitle": "At the intersection of AI, art, and digital content.",
-    "desc": "Building innovative solutions, unique illustrations, and insightful content in the evolving digital landscape."
-  },
-  "nav": {
-    "home": "Home",
-    "portfolio": "Portfolio",
-    "blog": "Blog",
-    "contact": "Contact",
-    "about": "About"
-  },
-  "cta": {
-    "explore": "Explore Projects",
-    "contact": "Let's Connect",
-    "visit": "Visit Site",
-    "read": "Read More"
-  },
-  "about": {
-    "tag": "About Me",
-    "title": "A Digital Nomad in the AI Era",
-    "p1": "I am a digital entrepreneur and content creator focused on exploring the capabilities of artificial intelligence to transform the way we create and consume digital products.",
-    "p2": "From Galicia to the world, I manage multiple brands and projects ranging from compliance documentation for the EU AI Act to artistic illustrations and educational newsletters.",
-    "p3": "My goal is to bridge the gap between complex technology and practical, creative applications that provide real value to independent creators and businesses.",
-    "stat1": "Years of experience",
-    "stat2": "Digital brands",
-    "stat3": "AI Prompts created",
-    "stat4": "Commitment to quality"
-  },
-  "projects": {
-    "tag": "Portfolio",
-    "title": "Featured Projects",
-    "subtitle": "A selection of my latest work in AI, design, and digital platforms.",
-    "items": [
-      {
-        "title": "GÜIJE Photography",
-        "desc": "Personal brand for photography and AI-assisted visual arts.",
-        "tag": "Photography & Art"
-      },
-      {
-        "title": "Gumroad Shop",
-        "desc": "Premium digital products, Notion templates, and AI guides.",
-        "tag": "E-Commerce"
-      },
-      {
-        "title": "The Lamp of Diogenes",
-        "desc": "Weekly newsletter on AI, digital philosophy, and strategy.",
-        "tag": "Newsletter"
-      },
-      {
-        "title": "Automation Systems",
-        "desc": "n8n implementations and local workflows with LLM models.",
-        "tag": "Technology"
-      }
-    ]
-  },
-  "blog": {
-    "tag": "Content",
-    "title": "Latest Insights",
-    "subtitle": "Sharing knowledge about the impact of AI on society and work.",
-    "platform": "Substack",
-    "post1": {
-      "title": "AI and the Future of Creativity",
-      "desc": "How generative tools are redefining the artist's role."
+  "products": {
+    "item1": {
+      "title": "AI Productivity Playbook",
+      "desc": "A comprehensive guide to building high-output workflows using AI models, automation tools, and prompt engineering techniques."
     },
-    "post2": {
-      "title": "Workflows with Claude 3.5",
-      "desc": "Practical guide to maximizing productivity using Sonnet."
+    "item2": {
+      "title": "n8n Automation Packs",
+      "desc": "Ready-to-deploy n8n workflow templates for content pipelines, SEO automation, and local LLM integrations."
     },
-    "post3": {
-      "title": "AI Ethics in the EU",
-      "desc": "Navigating AI Act regulations for independent creators."
+    "item3": {
+      "title": "Digital Asset Collection",
+      "desc": "AI-generated illustrations, print-on-demand graphics, and visual brand assets crafted for modern digital spaces."
     }
-  },
-  "contact": {
-    "tag": "Connect",
-    "title": "Let's Talk",
-    "subtitle": "I am open to collaborations, consulting, and new opportunities in the AI sector."
-  },
-  "footer": {
-    "rights": "All rights reserved.",
-    "made": "Built with Next.js and a lot of AI curiosity."
   }
 }
