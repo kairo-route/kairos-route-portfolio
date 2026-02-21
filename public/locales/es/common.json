@@ -1,90 +1,20 @@
 {
   "meta": {
-    "description": "Kairos Route - Portfolio de proyectos de IA, ilustraciones digitales y contenido creativo. Explora las colecciones de Kairos y GÜIJE.",
-    "keywords": "Kairos Route, portfolio, IA, inteligencia artificial, ilustraciones, productos digitales, Gumroad, Redbubble"
+    "description": "Kairos Route — Herramientas de IA premium, apps de automatización digital y productos digitales de élite para profesionales.",
+    "keywords": "Kairos Route, herramientas IA, automatización, productos digitales, n8n, Gumroad, tech marketplace"
   },
-  "hero": {
-    "badge": "Creador de Contenido Digital e IA",
-    "title": "Kairos Route",
-    "subtitle": "En el cruce de la IA, el arte y el contenido digital.",
-    "desc": "Construyendo soluciones innovadoras, ilustraciones únicas y contenido perspicaz en el cambiante panorama digital."
-  },
-  "nav": {
-    "home": "Inicio",
-    "portfolio": "Portfolio",
-    "blog": "Blog",
-    "contact": "Contacto",
-    "about": "Sobre mí"
-  },
-  "cta": {
-    "explore": "Explorar Proyectos",
-    "contact": "Conectemos",
-    "visit": "Visitar Sitio",
-    "read": "Leer Más"
-  },
-  "about": {
-    "tag": "Sobre Mí",
-    "title": "Un Nómada Digital en la Era de la IA",
-    "p1": "Soy un emprendedor digital y creador de contenido enfocado en explorar las capacidades de la inteligencia artificial para transformar la forma en que creamos y consumimos productos digitales.",
-    "p2": "Desde Galicia para el mundo, gestiono múltiples marcas y proyectos que van desde la documentación de cumplimiento para la Ley de IA de la UE hasta ilustraciones artísticas y boletines educativos.",
-    "p3": "Mi objetivo es cerrar la brecha entre la tecnología compleja y las aplicaciones creativas prácticas que aportan valor real a creadores independientes y empresas.",
-    "stat1": "Años de experiencia",
-    "stat2": "Marcas digitales",
-    "stat3": "Prompts de IA creados",
-    "stat4": "Compromiso con la calidad"
-  },
-  "projects": {
-    "tag": "Portfolio",
-    "title": "Proyectos Destacados",
-    "subtitle": "Una selección de mis últimos trabajos en IA, diseño y plataformas digitales.",
-    "items": [
-      {
-        "title": "GÜIJE Photography",
-        "desc": "Marca personal para fotografía y artes visuales asistidas por IA.",
-        "tag": "Fotografía y Arte"
-      },
-      {
-        "title": "Tienda Gumroad",
-        "desc": "Productos digitales premium, plantillas de Notion y guías de IA.",
-        "tag": "E-Commerce"
-      },
-      {
-        "title": "La Lámpara de Diógenes",
-        "desc": "Newsletter semanal sobre IA, filosofía digital y estrategia.",
-        "tag": "Newsletter"
-      },
-      {
-        "title": "Sistemas de Automatización",
-        "desc": "Implementaciones de n8n y flujos de trabajo locales con modelos LLM.",
-        "tag": "Tecnología"
-      }
-    ]
-  },
-  "blog": {
-    "tag": "Contenido",
-    "title": "Últimas Perspectivas",
-    "subtitle": "Compartiendo conocimientos sobre el impacto de la IA en la sociedad y el trabajo.",
-    "platform": "Substack",
-    "post1": {
-      "title": "La IA y el Futuro de la Creatividad",
-      "desc": "Cómo las herramientas generativas están redefiniendo el papel del artista."
+  "products": {
+    "item1": {
+      "title": "Playbook de Productividad con IA",
+      "desc": "Una guía completa para construir flujos de trabajo de alto rendimiento usando modelos de IA, herramientas de automatización y técnicas de ingenieria de prompts."
     },
-    "post2": {
-      "title": "Workflows con Claude 3.5",
-      "desc": "Guía práctica para maximizar la productividad usando Sonnet."
+    "item2": {
+      "title": "Packs de Automatización n8n",
+      "desc": "Plantillas de flujos n8n listas para desplegar: pipelines de contenido, automatización SEO e integraciones con LLMs locales."
     },
-    "post3": {
-      "title": "Ética de la IA en la UE",
-      "desc": "Navegando las regulaciones del AI Act para creadores independientes."
+    "item3": {
+      "title": "Colección de Assets Digitales",
+      "desc": "Ilustraciones generadas con IA, gráficos print-on-demand y assets visuales de marca diseñados para espacios digitales modernos."
     }
-  },
-  "contact": {
-    "tag": "Conectar",
-    "title": "Hablemos",
-    "subtitle": "Estoy abierto a colaboraciones, consultoría y nuevas oportunidades en el sector de la IA."
-  },
-  "footer": {
-    "rights": "Todos los derechos reservados.",
-    "made": "Construido con Next.js y mucha curiosidad por la IA."
   }
 }
