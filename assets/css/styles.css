@@ -1,0 +1,10 @@
+
+/* Minimal premium CSS para Kairos Route */
+body { margin:0; font-family:'Inter', sans-serif; line-height:1.6; color:#071B34; background:#fff; }
+.container { max-width:1200px; margin:0 auto; padding:80px 24px; }
+h1{font-weight:600;}
+h2{font-size:2rem; margin-bottom:32px;}
+h3{font-size:1.2rem; font-weight:600;}
+a{color:#071B34; text-decoration:none;}
+.btn-primary{background:#071B34;color:#fff;padding:14px 28px;border-radius:4px;}
+.btn-primary:hover{background:#1ED6D3;color:#071B34;}
